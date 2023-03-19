@@ -1,0 +1,11 @@
+.heroImageContainer {
+  position: relative;
+  display: block;
+  height: 300px;
+  margin-bottom: 1.25rem;
+}
+
+.heroImg {
+  object-fit: cover;
+  width: 100%;
+}
